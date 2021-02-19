@@ -1,1 +1,4 @@
-👍Type Script TodoList
+## 👍Type Script TodoList
+* typescript
+* redux
+
